@@ -9,8 +9,11 @@ module.exports = {
   networks: {
     hardhat: {
     },
+    // Sensitive contents are hidden
     matic: {
+      //url from alchemy paste here 
       url: API_URL,
+      //private key from Metamask paste here 
       accounts: [`0x${P_KEY}`],
     }
   },
