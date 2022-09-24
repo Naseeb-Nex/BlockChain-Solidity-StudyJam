@@ -10,6 +10,14 @@
 
 > Compaile and Deploy on VS code Environment
 
+#### Commands Used
+
+ - npx hardhat compile
+ - npm install --save-dev @nomicfoundation/hardhat-toolbox
+ - npm install dotenv --save
+ - npx hardhat run scripts/deploy.js --network matic
+
+
 ### Completed
 - Compailed : _completed_
 - Deployed : _completed_
