@@ -11,9 +11,9 @@
 > Compaile and Deploy on VS code Environment
 
 ### Completed
-- Compailed
-- Deployed
-- _Testing :- Pending_
+- Compailed : _completed_
+- Deployed : _completed_
+- _Testing : Pending_
 
 ## Refference Links
 
