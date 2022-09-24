@@ -1,7 +1,6 @@
 const hre = require("hardhat");
 
 async function main() {
-  
 
   const AadharRegistry = await hre.ethers.getContractFactory("AadharRegistry");
   const aadharReg = await AadharRegistry.deploy();
