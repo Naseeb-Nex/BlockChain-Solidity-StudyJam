@@ -18,3 +18,4 @@
 
 - [Open Zeppelin Installation](https://docs.openzeppelin.com/contracts/4.x/) 
 - [Contract Wizard(Create Code)](https://docs.openzeppelin.com/contracts/4.x/wizard) - Create Code Features(Mintable, Burnable)
+- [Ether Scan for verification](https://hardhat.org/hardhat-runner/plugins/nomiclabs-hardhat-etherscan) - Etherscan used to Verify the smart contract (!in this case we use Polyscan API key)
