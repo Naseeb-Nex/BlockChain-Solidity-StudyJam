@@ -21,7 +21,7 @@
 ### Completed
 - Compailed : _completed_
 - Deployed : _completed_
-- _Testing : Pending_
+- Verified : _completed_
 
 ## Refference Links
 
