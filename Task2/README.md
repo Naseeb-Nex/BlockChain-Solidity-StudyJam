@@ -15,7 +15,7 @@
  - npx hardhat compile
  - npm install --save-dev @nomicfoundation/hardhat-toolbox
  - npm install dotenv --save
- - npx hardhat run scripts/deploy.js --network matic
+ - npx hardhat run scripts/deploy.js --network mumbai
 
 
 ### Completed
